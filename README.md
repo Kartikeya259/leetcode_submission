@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
