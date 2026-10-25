@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kartikeya259/leetcode_submission/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1089-duplicate-zeros](https://github.com/Kartikeya259/leetcode_submission/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kartikeya259/leetcode_submission/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1089-duplicate-zeros](https://github.com/Kartikeya259/leetcode_submission/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
