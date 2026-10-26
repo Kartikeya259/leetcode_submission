@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Kartikeya259/leetcode_submission/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/Kartikeya259/leetcode_submission/tree/master/2942-find-words-containing-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kartikeya259/leetcode_submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Kartikeya259/leetcode_submission/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3731-find-missing-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3731-find-missing-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
