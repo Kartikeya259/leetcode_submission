@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/Kartikeya259/leetcode_submission/tree/master/1089-duplicate-zeros) |
 | [2574-left-and-right-sum-differences](https://github.com/Kartikeya259/leetcode_submission/tree/master/2574-left-and-right-sum-differences) |
+| [2942-find-words-containing-character](https://github.com/Kartikeya259/leetcode_submission/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/Kartikeya259/leetcode_submission/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2942-find-words-containing-character](https://github.com/Kartikeya259/leetcode_submission/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/Kartikeya259/leetcode_submission/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
