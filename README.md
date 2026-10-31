@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kartikeya259/leetcode_submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kartikeya259/leetcode_submission/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kartikeya259/leetcode_submission/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Kartikeya259/leetcode_submission/tree/master/2574-left-and-right-sum-differences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kartikeya259/leetcode_submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Kartikeya259/leetcode_submission/tree/master/2942-find-words-containing-character) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kartikeya259/leetcode_submission/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1089-duplicate-zeros](https://github.com/Kartikeya259/leetcode_submission/tree/master/1089-duplicate-zeros) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kartikeya259/leetcode_submission/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kartikeya259/leetcode_submission/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3838-weighted-word-mapping](https://github.com/Kartikeya259/leetcode_submission/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
