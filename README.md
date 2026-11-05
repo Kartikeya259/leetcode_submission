@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2235-add-two-integers](https://github.com/Kartikeya259/leetcode_submission/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kartikeya259/leetcode_submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kartikeya259/leetcode_submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
