@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kartikeya259/leetcode_submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kartikeya259/leetcode_submission/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Kartikeya259/leetcode_submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kartikeya259/leetcode_submission/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kartikeya259/leetcode_submission/tree/master/2574-left-and-right-sum-differences) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartikeya259/leetcode_submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Kartikeya259/leetcode_submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartikeya259/leetcode_submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/3731-find-missing-elements) |
 ## Math
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/2778-sum-of-squares-of-special-elements) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Kartikeya259/leetcode_submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Kartikeya259/leetcode_submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
