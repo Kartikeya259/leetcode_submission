@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1089-duplicate-zeros](https://github.com/Kartikeya259/leetcode_submission/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartikeya259/leetcode_submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Kartikeya259/leetcode_submission/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kartikeya259/leetcode_submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kartikeya259/leetcode_submission/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Kartikeya259/leetcode_submission/tree/master/1389-create-target-array-in-the-given-order) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kartikeya259/leetcode_submission/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/2553-separate-the-digits-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Kartikeya259/leetcode_submission/tree/master/3838-weighted-word-mapping) |
