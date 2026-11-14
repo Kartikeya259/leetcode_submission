@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Kartikeya259/leetcode_submission/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kartikeya259/leetcode_submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/1480-running-sum-of-1d-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kartikeya259/leetcode_submission/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kartikeya259/leetcode_submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Kartikeya259/leetcode_submission/tree/master/1816-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kartikeya259/leetcode_submission/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartikeya259/leetcode_submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Kartikeya259/leetcode_submission/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Kartikeya259/leetcode_submission/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartikeya259/leetcode_submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/3731-find-missing-elements) |
