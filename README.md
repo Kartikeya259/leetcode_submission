@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kartikeya259/leetcode_submission/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikeya259/leetcode_submission/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/Kartikeya259/leetcode_submission/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartikeya259/leetcode_submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kartikeya259/leetcode_submission/tree/master/1389-create-target-array-in-the-given-order) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Kartikeya259/leetcode_submission/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartikeya259/leetcode_submission/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartikeya259/leetcode_submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Kartikeya259/leetcode_submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
