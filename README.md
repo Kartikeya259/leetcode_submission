@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Kartikeya259/leetcode_submission/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kartikeya259/leetcode_submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Kartikeya259/leetcode_submission/tree/master/2942-find-words-containing-character) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Kartikeya259/leetcode_submission/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Kartikeya259/leetcode_submission/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kartikeya259/leetcode_submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/3731-find-missing-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kartikeya259/leetcode_submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kartikeya259/leetcode_submission/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kartikeya259/leetcode_submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Kartikeya259/leetcode_submission/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3731-find-missing-elements](https://github.com/Kartikeya259/leetcode_submission/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
