@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kartikeya259/leetcode_submission/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/Kartikeya259/leetcode_submission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kartikeya259/leetcode_submission/tree/master/0162-find-peak-element) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kartikeya259/leetcode_submission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Kartikeya259/leetcode_submission/tree/master/1389-create-target-array-in-the-given-order) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kartikeya259/leetcode_submission/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -147,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kartikeya259/leetcode_submission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
