@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kartikeya259/leetcode_submission/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kartikeya259/leetcode_submission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Kartikeya259/leetcode_submission/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Kartikeya259/leetcode_submission/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Kartikeya259/leetcode_submission/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartikeya259/leetcode_submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kartikeya259/leetcode_submission/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Kartikeya259/leetcode_submission/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kartikeya259/leetcode_submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kartikeya259/leetcode_submission/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kartikeya259/leetcode_submission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Kartikeya259/leetcode_submission/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
