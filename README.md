@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kartikeya259/leetcode_submission/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kartikeya259/leetcode_submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kartikeya259/leetcode_submission/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kartikeya259/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Kartikeya259/leetcode_submission/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kartikeya259/leetcode_submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Kartikeya259/leetcode_submission/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Kartikeya259/leetcode_submission/tree/master/1108-defanging-an-ip-address) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Kartikeya259/leetcode_submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/Kartikeya259/leetcode_submission/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kartikeya259/leetcode_submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kartikeya259/leetcode_submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2942-find-words-containing-character](https://github.com/Kartikeya259/leetcode_submission/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/Kartikeya259/leetcode_submission/tree/master/3838-weighted-word-mapping) |
